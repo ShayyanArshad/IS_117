@@ -1,0 +1,18 @@
+1.	Salesforce.com
+	a.	Business startups as well as those businesses looking to move to the cloud
+	i.	The use of the golden ratio has been used on this website. Its existence is most apparent in the vertical alignment of the different sections. It also exists in the relative width of the page. 
+2.	Plus.google.com
+	a.	Individuals looking to share content with their friends on the Google social network. 
+	i.	The use of the golden ratio has been used on this website. Its existence is most apparent in the horizontal alignment of the different sections. It also exists in the height of the page where the main section is the smaller part of the golden ratio. 
+3.	Gmail.com
+	a.	Individuals looking to sign in to their email account
+	i.	The use of the golden ratio is used in the overall look of the website where the bulk of the content is in the greater portion of the vertical alignment of the golden ratio. Horizontally, it is split up with content in the greater portion and the login form in the smaller portion of the golden ratio. 
+4.	Moodle.njit.edu
+	a.	Students looking to log in to their online classes. 
+	i.	The use of the golden ratio is not too apparent on this website.
+5.	Droid-life.com
+	a.	Users looking for the most current information in the android market. 
+	i.	The use of the golden ratio is used in the main section of the website, where the content and the advertisements are split up using the golden ratio. 
+
+
+
