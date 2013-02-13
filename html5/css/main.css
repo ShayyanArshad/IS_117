@@ -10,6 +10,17 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+#box1{
+width:300px;
+}
+
+.blue{
+background-color:blue;
+color:white;
+
+}
+
+
 html,
 button,
 input,
@@ -84,10 +95,13 @@ textarea {
 
 .chromeframe {
     margin: 0.2em 0;
+    M
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
 }
+
+
 
 /* ==========================================================================
    Author's custom styles
