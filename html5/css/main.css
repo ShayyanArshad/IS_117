@@ -13,7 +13,6 @@ h1 {
   font-family: "depot-new-condensed-web",sans-serif;
     }
 
-
 #box1{
 width:300px;
 }
@@ -42,7 +41,6 @@ color:white;
 
 #content{
 
-    font-family: "droid-sans",sans-serif;
     width: 594px;
     background-color: green;
     float: left;
@@ -98,6 +96,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    font-family: "pt-sans-caption",sans-serif;
 }
 
 /*
